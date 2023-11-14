@@ -13,6 +13,7 @@
 		E407780A2B03E74000B38746 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40778082B03E74000B38746 /* Main.storyboard */; };
 		E407780C2B03E74400B38746 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E407780B2B03E74400B38746 /* Assets.xcassets */; };
 		E407780F2B03E74400B38746 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E407780D2B03E74400B38746 /* LaunchScreen.storyboard */; };
+		E40778172B03EA7300B38746 /* CSUNS.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = E40778162B03EA7300B38746 /* CSUNS.svg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E407780B2B03E74400B38746 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E407780E2B03E74400B38746 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E40778102B03E74400B38746 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E40778162B03EA7300B38746 /* CSUNS.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CSUNS.svg.png; path = ../../../../../../../Downloads/CSUNS.svg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E40778042B03E74000B38746 /* SceneDelegate.swift */,
 				E40778062B03E74000B38746 /* ViewController.swift */,
 				E40778082B03E74000B38746 /* Main.storyboard */,
+				E40778162B03EA7300B38746 /* CSUNS.svg.png */,
 				E407780B2B03E74400B38746 /* Assets.xcassets */,
 				E407780D2B03E74400B38746 /* LaunchScreen.storyboard */,
 				E40778102B03E74400B38746 /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				E407780F2B03E74400B38746 /* LaunchScreen.storyboard in Resources */,
 				E407780C2B03E74400B38746 /* Assets.xcassets in Resources */,
+				E40778172B03EA7300B38746 /* CSUNS.svg.png in Resources */,
 				E407780A2B03E74000B38746 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
